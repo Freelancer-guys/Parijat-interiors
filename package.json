@@ -1,0 +1,10 @@
+{
+  "name": "parijat-interiors-root",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npm --prefix project run dev",
+    "build": "npm --prefix project run build",
+    "preview": "npm --prefix project run preview"
+  }
+}

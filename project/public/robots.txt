@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parijatinteriors.com/sitemap.xml
